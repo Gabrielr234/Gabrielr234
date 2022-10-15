@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Gabriel Baron 😁
+## Bem-vindo(a) ao perfil do  Gabriel Baron 😁
 
  <div>
    <a href="https://github.com/Gabrielr234">
